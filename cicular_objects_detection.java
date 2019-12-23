@@ -495,8 +495,8 @@ private Blob blob;
 
 	public void run(final String arg) {
 		//print();
-		//Red_Blob();
-		//Yellow_Blob();
+		Red_Blob();
+		Yellow_Blob();
 		Green_Blob();
 		Blue_Blob();
 	}
