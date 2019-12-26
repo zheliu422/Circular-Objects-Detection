@@ -382,7 +382,7 @@ private Blob blob;
 		int pixelHue = 0;
 		//new ImagePlus("s", saturation).show();
 		//new ImagePlus("B", brightness).show();
-		new ImagePlus("hue changed", hue).show();
+		//new ImagePlus("hue changed", hue).show();
 
 		ImageProcessor copyHue = hue.duplicate();
 		for(int h = 0; h < imageH; h++)
