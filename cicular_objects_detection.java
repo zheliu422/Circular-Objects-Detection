@@ -6,7 +6,7 @@ import java.awt.*;
 import ij.plugin.*;
 import ij.plugin.frame.*;
 
-public class c_o_d implements PlugIn {
+public class cicular_objects_detection implements PlugIn {
 
 private ManyBlobs allBlobs;
 private Blob blob;
